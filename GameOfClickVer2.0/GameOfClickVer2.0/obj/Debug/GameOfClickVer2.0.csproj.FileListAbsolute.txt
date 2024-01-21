@@ -1,0 +1,10 @@
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\bin\Debug\GameOfClickVer2.0.exe.config
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\bin\Debug\GameOfClickVer2.0.exe
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\bin\Debug\GameOfClickVer2.0.pdb
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2.0.csproj.AssemblyReference.cache
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2._0.Properties.Resources.resources
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2.0.csproj.GenerateResource.cache
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2.0.csproj.CoreCompileInputs.cache
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2.0.exe
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2.0.pdb
+Z:\Program C#\GameOfClickVer2.0\GameOfClickVer2.0\obj\Debug\GameOfClickVer2._0.MainForm.resources

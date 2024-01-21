@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfClickVer2.0", "GameOfClickVer2.0\GameOfClickVer2.0.csproj", "{3867E464-F28A-4427-BDEC-21996C4403AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3867E464-F28A-4427-BDEC-21996C4403AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3867E464-F28A-4427-BDEC-21996C4403AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3867E464-F28A-4427-BDEC-21996C4403AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3867E464-F28A-4427-BDEC-21996C4403AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA23687-22C0-4043-B079-F08797B1EA0E}
+	EndGlobalSection
+EndGlobal
